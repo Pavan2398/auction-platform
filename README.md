@@ -74,5 +74,4 @@ docker-compose down -v && docker-compose up --build
 ### Note:
 Ensure MongoDB is running locally or update the connection string in the backend configuration to point to your MongoDB instance.
 
-## License:
-This project is licensed under the MIT License.
+
